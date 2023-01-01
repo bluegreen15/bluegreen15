@@ -1,17 +1,18 @@
 Hello my name is Luca Grube.
 
-I create software. Do not hesitate asking me for help; I will be glad to get an assignment.
+I am a hobby software developer.
 
 My current programming skills consist of:
-- Unity Game Engine
-- C#
-- C++
-- Python
-- Basics of HTML/CSS
-- Java
-- Minecraft Spigot
-
-and I have several years of experience
+- Unity Game Engine 2+ years
+- C# 3+ years
+- C++ <1 year
+- Python 2+ years
+- Basics of HTML/CSS 4+ years
+- Java 1+ years
+- Minecraft Spigot 1+ year
 
 See my portfolio by clicking my repositories. 
-Contact me on Discord: bluegreen15#3627; Email: luca@grubes.de
+
+If you require any of these skill contact me: Discord: bluegreen15#3627; Email: luca@grubes.de
+
+
