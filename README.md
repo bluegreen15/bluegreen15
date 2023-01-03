@@ -1,6 +1,6 @@
 Hello my name is Luca Grube.
 
-I am a hobby software developer.
+I am a software developer.
 
 My current programming skills consist of:
 - Unity Game Engine 2+ years
